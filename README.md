@@ -1,5 +1,8 @@
 # Adonis materialize fullstack application
 
+TO USE THIS THEME JUST COPY THE "RESOURCES" AND "PUBLIC" FOLDERS into your new AdonisJS project
+(i.e. replace the newly generated "RESOURCES" AND "PUBLIC" FOLDERS with those from this starter pack)
+
 ![Adonis app](material.gif)
 
 1. Authentication done
